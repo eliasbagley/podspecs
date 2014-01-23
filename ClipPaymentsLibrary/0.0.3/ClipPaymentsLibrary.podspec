@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name = 'ClipPaymentsLibrary'
-    s.version = '0.0.5'
+    s.version = '0.0.3'
     s.summary = 'Payment library for Payclip, Inc'
     s.author = {
         'Elias Bagley' => 'elias@rocketmade.com'
